@@ -1,4 +1,4 @@
-# LaBot : Bot Dofus 2 en Python 3
+# LaBot : Bot Dofus 2 en Python 3s
 
 ## data
 
